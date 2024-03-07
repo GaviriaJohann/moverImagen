@@ -1,0 +1,10 @@
+C:\Users\johan\source\repos\moveImage\bin\Debug\moveImage.exe.config
+C:\Users\johan\source\repos\moveImage\bin\Debug\moveImage.exe
+C:\Users\johan\source\repos\moveImage\bin\Debug\moveImage.pdb
+C:\Users\johan\source\repos\moveImage\obj\Debug\moveImage.csproj.AssemblyReference.cache
+C:\Users\johan\source\repos\moveImage\obj\Debug\moveImage.frmMoveImage.resources
+C:\Users\johan\source\repos\moveImage\obj\Debug\moveImage.Properties.Resources.resources
+C:\Users\johan\source\repos\moveImage\obj\Debug\moveImage.csproj.GenerateResource.cache
+C:\Users\johan\source\repos\moveImage\obj\Debug\moveImage.csproj.CoreCompileInputs.cache
+C:\Users\johan\source\repos\moveImage\obj\Debug\moveImage.exe
+C:\Users\johan\source\repos\moveImage\obj\Debug\moveImage.pdb
